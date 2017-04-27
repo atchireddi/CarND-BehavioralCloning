@@ -12,7 +12,7 @@ The goal of this project is to drive car in simulator environment as autonomous 
 
 [//]: # (Image References)
 
-[image1]: ./examples/placeholder.png "Model Visualization"
+[image1]: ./output_images/DataAnalysis.jpg "Model Visualization"
 [image2]: ./examples/placeholder.png "Grayscaling"
 [image3]: ./examples/placeholder_small.png "Recovery Image"
 [image4]: ./examples/placeholder_small.png "Recovery Image"
@@ -97,6 +97,8 @@ camera images, which can help model learn to steer away from curb. I pick images
     -- greater than 0.15 from left camera.
 
 Below is snapshot of fliped camera images.
+
+![alt text][image1]
 
 
 **Model Training and Validation:**
